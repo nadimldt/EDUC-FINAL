@@ -1,0 +1,38 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Plate -->
+  <circle cx="100" cy="100" r="90" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="3"/>
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#EEEEEE" stroke-width="1"/>
+  
+  <!-- Scrambled eggs base -->
+  <path d="M60 90 C70 70, 130 70, 140 90 C150 110, 130 130, 100 130 C70 130, 50 110, 60 90Z" fill="#FFF9C4" stroke="#333333" stroke-width="2.5"/>
+  
+  <!-- Scrambled egg texture -->
+  <path d="M70 95 C80 85, 90 95, 100 90" stroke="#FFEE58" stroke-width="3" stroke-linecap="round"/>
+  <path d="M110 90 C120 85, 130 95, 125 105" stroke="#FFEE58" stroke-width="3" stroke-linecap="round"/>
+  <path d="M80 105 C90 115, 110 115, 120 105" stroke="#FFEE58" stroke-width="3" stroke-linecap="round"/>
+  <path d="M65 100 C75 110, 85 105, 90 110" stroke="#FFEE58" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Cartoon face -->
+  <!-- Eyes -->
+  <circle cx="85" cy="95" r="4" fill="#333333"/>
+  <circle cx="115" cy="95" r="4" fill="#333333"/>
+  
+  <!-- Smile -->
+  <path d="M85 110 Q100 120 115 110" stroke="#333333" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  
+  <!-- Highlights -->
+  <circle cx="80" cy="85" r="3" fill="#FFFFFF" fill-opacity="0.7"/>
+  <circle cx="120" cy="85" r="3" fill="#FFFFFF" fill-opacity="0.7"/>
+  <circle cx="100" cy="110" r="3" fill="#FFFFFF" fill-opacity="0.7"/>
+  
+  <!-- Steam lines -->
+  <path d="M70 60 Q75 50 80 60" stroke="#CCCCCC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M90 55 Q95 45 100 55" stroke="#CCCCCC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M110 55 Q115 45 120 55" stroke="#CCCCCC" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Fork marks -->
+  <path d="M75 100 L85 100" stroke="#FFE082" stroke-width="2" stroke-linecap="round"/>
+  <path d="M110 100 L120 100" stroke="#FFE082" stroke-width="2" stroke-linecap="round"/>
+  <path d="M95 115 L105 115" stroke="#FFE082" stroke-width="2" stroke-linecap="round"/>
+</svg>
+

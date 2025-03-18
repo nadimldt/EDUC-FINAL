@@ -1,0 +1,28 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="#D2B48C"/>
+  
+  <!-- Cutting board grain lines -->
+  <path d="M0 50 H500" stroke="#A0522D" stroke-width="1" opacity="0.3"/>
+  <path d="M0 100 H500" stroke="#A0522D" stroke-width="1" opacity="0.3"/>
+  <path d="M0 150 H500" stroke="#A0522D" stroke-width="1" opacity="0.3"/>
+  <path d="M0 200 H500" stroke="#A0522D" stroke-width="1" opacity="0.3"/>
+  <path d="M0 250 H500" stroke="#A0522D" stroke-width="1" opacity="0.3"/>
+  <path d="M0 300 H500" stroke="#A0522D" stroke-width="1" opacity="0.3"/>
+  <path d="M0 350 H500" stroke="#A0522D" stroke-width="1" opacity="0.3"/>
+  <path d="M0 400 H500" stroke="#A0522D" stroke-width="1" opacity="0.3"/>
+  <path d="M0 450 H500" stroke="#A0522D" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Cutting marks -->
+  <path d="M100 20 L120 40" stroke="#8B4513" stroke-width="1" opacity="0.5"/>
+  <path d="M200 50 L230 80" stroke="#8B4513" stroke-width="1" opacity="0.5"/>
+  <path d="M300 100 L320 130" stroke="#8B4513" stroke-width="1" opacity="0.5"/>
+  <path d="M150 200 L180 230" stroke="#8B4513" stroke-width="1" opacity="0.5"/>
+  <path d="M250 300 L280 330" stroke="#8B4513" stroke-width="1" opacity="0.5"/>
+  <path d="M350 400 L380 430" stroke="#8B4513" stroke-width="1" opacity="0.5"/>
+  
+  <!-- Wood knots -->
+  <circle cx="120" cy="120" r="8" fill="#D2B48C" stroke="#A0522D" stroke-width="1" opacity="0.6"/>
+  <circle cx="320" cy="220" r="10" fill="#D2B48C" stroke="#A0522D" stroke-width="1" opacity="0.6"/>
+  <circle cx="170" cy="370" r="6" fill="#D2B48C" stroke="#A0522D" stroke-width="1" opacity="0.6"/>
+</svg>
+
